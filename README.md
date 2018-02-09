@@ -1,8 +1,6 @@
 # docker-hello
-= Docker Hello World
 
 This repo creates a simple Hello World Docker image.
-
 
 Login to Docker Hub
 
@@ -28,7 +26,8 @@ Run Docker container
 docker image push yogendra0sharma/helloworld:1.0.0
 ```
 
-Invoke application
+Invoke application.
+
 Open Browser and test app
 
 if you are using docker-machine then get IP of the running machine
