@@ -1,0 +1,14 @@
+{
+  "name": "docker-hello",
+  "version": "1.0.0",
+  "description": "docker hello world example",
+  "main": "app.js",
+   "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Yogendra Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
