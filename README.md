@@ -17,7 +17,7 @@ docker image build -t yogendra0sharma/helloworld:1.0.0 .
 Push Docker image
 
 ```
-docker image push arungupta/helloworld:1.0.0
+docker image push yogendra0sharma/helloworld:1.0.0
 ```
 
 Run Docker container
